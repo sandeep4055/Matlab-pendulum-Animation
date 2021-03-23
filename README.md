@@ -91,6 +91,8 @@ title('time vs angularvelocity')
 xlabel('Time')    
 ylabel('Angular velocity')   
 The above code is to plot the graph between time vs angular displacement and angular velocity.The images of the plot are as shown below.
+
+
 ![image](https://user-images.githubusercontent.com/70133134/112189016-9538af80-8c29-11eb-9562-f5b58a2cb194.png)
 ![image](https://user-images.githubusercontent.com/70133134/112189045-9c5fbd80-8c29-11eb-9b1c-db8492297cbf.png)
 
