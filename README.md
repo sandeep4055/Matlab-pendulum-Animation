@@ -1,6 +1,8 @@
 # Matlab-pendulum-Animation
 This repo has how to write a program that solves the second order which represents the equation of motion of a simple pendulum with damping.
 
+![image](https://user-images.githubusercontent.com/70133134/112189876-77b81580-8c2a-11eb-9d72-cc7839149624.png)
+
 # Solving second order ODEs using Matlab
 
 Aim: Write a program that solves the second order which represents the equation of motion of a simple pendulum with damping.
